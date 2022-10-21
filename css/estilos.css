@@ -21,3 +21,8 @@
 .historia{
     color: black;
 }
+
+.tabla{
+    border: 10px;
+    border-radius: 10px;
+}
