@@ -15,8 +15,22 @@
     background-image: url("../imagenes/fondo.jpg");
     background-position: center center;
     background-size: cover;
+    background-size: auto;
 }
 
+.fondo2{
+    background-image: url("../imagenes/fondo2.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-size: auto;
+}
+
+.fondo3{
+    background-image: url("../imagenes/fondo3.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-size: auto;
+}
 
 .historia{
     color: black;
